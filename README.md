@@ -104,7 +104,6 @@ python deploy_web.py D:\mysite
 | `cloudflared-windows-amd64.exe` | Cloudflare 官方隧道客户端，必需，与上者同目录 |
 | `deploy_web.py` | 源码 |
 | `build.bat` | 重新打包脚本 |
-| `使用说明.md` | 详细中文使用说明（含 FAQ、DNS 排障步骤） |
 
 ---
 
